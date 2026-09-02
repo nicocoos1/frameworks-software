@@ -1,2 +1,4 @@
 # frameworks-software
-jorge nicolas cortez osuna
+#### jorge nicolas cortez osuna
+#### 3BMP
+#### emplea frameworks para el desarrollo de software
